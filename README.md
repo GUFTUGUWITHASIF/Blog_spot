@@ -11,6 +11,12 @@ Prerequisites:
 
 Make sure you have Python installed on your system. You can download Python from the official website (https://www.python.org/downloads/).
 
+Open  terminal Make Directory: 
+sudo mkdir project
+
+cd projeect/
+
+pip3 install django
 
 django-admin startproject myproject
 
