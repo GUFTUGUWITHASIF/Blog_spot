@@ -6,7 +6,16 @@ Features:
 
 User-friendly web interface for creating and managing blog posts. Comment system for engaging with readers. Tagging system to categorize and organize your blog posts. User authentication and authorization for managing posts and comments. Responsive design for an optimal viewing experience on various devices.
 
-Installation:
+
+Prerequisites:
+
+Make sure you have Python installed on your system. You can download Python from the official website (https://www.python.org/downloads/).
+
+
+django-admin startproject myproject
+
+python manage.py startapp myapp
+
 
 git clone 
 
