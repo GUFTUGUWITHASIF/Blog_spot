@@ -22,13 +22,11 @@ django-admin startproject myproject
 
 python manage.py startapp myapp
 
-cd project
 
 crete Virtual Environment: python -m venv venv
 
 Install project dependencies:
 
-pip3 install django
 
 pip3 install django_framework
 
