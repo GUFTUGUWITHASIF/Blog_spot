@@ -16,9 +16,6 @@ django-admin startproject myproject
 
 python manage.py startapp myapp
 
-
-git clone 
-
 cd project
 
 crete Virtual Environment: python -m venv venv
